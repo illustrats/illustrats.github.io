@@ -1,7 +1,0 @@
-<html>
-<head>
-<title>Casas Taiguara</title>
-</head>
-<body>
-Esta é uma pagina de teste
-</body>
